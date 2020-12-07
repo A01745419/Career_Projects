@@ -8,7 +8,7 @@ High School
 I included some of my first projects of programming.
 1. Python / soccer concept video game on PyGame.
 2. Python / analysis of Twitter information with developer account.
-3. Arduino / prototype of safe (strongbox) with components.
+3. Arduino / prototype of a strongbox with components.
 
 1st Semester
 
