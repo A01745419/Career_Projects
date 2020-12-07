@@ -7,7 +7,7 @@ High School
 
 I included some of my first projects of programming, both of them on Python.
 1. Soccer concept video game on PyGame.
-2. Analysis of twitter information with developer account.
+2. Analysis of Twitter information with developer account.
 
 1st Semester
 
