@@ -5,10 +5,10 @@ Here you can see my projects in many programming languages, but I will only show
 
 High School
 
-I included the code of some of my first projects of programming.
-1. Python / soccer concept video game on PyGame.
-2. Python / analysis of Twitter information with developer account.
-3. Arduino / prototype of a strongbox with components.
+I included the code of some of my first projects of programming, you can try them.
+1. Python / soccer concept video game on PyGame, consider it was 2.7 version.
+2. Python / analysis of Twitter information with developer account, consider you need your valid credentials.
+3. Arduino / prototype of a strongbox with components, consider to have the same hardware.
 
 Career
 1st Semester
