@@ -1,11 +1,11 @@
 # Career_Projects
 # José Luis Madrigal Sánchez
-# Tec de Monterrey CEM A01745419
-# Computer Technologies Engineering
+# Computer Technologies Engineering / Tec de Monterrey CEM
+Here you can see my projects in many programming languages, but I will only show some pdf with parts of the code and screenshots of running it, and this is because these are academic works that can't be copied. If you would like to try these projects, please let me know and maybe I can give you the files.
 
 High School
 
-I included some of my first projects of programming.
+I included the code of some of my first projects of programming.
 1. Python / soccer concept video game on PyGame.
 2. Python / analysis of Twitter information with developer account.
 3. Arduino / prototype of a strongbox with components.
