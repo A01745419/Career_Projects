@@ -11,6 +11,7 @@ I included the code of some of my first projects, you can try them.
 3. Arduino / prototype of a strongbox with components, consider to have the same hardware.
 
 Career
+
 1st Semester
 
 1. Python / data analysis of COVID Mexico files. (Individual).
