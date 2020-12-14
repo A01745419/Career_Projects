@@ -1,7 +1,7 @@
 # Career_Projects
 # José Luis Madrigal Sánchez
 # Computer Technologies Engineering / Tec de Monterrey CEM
-Here you can see my projects in many programming languages, but I will only show some pdf with screenshots of parts of the code and running it, this is because these are academic works that can't be copied. If you would like to try the codes, please let me know and maybe I can give you the files.
+Here you can see my projects in many programming languages, but I will only show some pdf with screenshots of parts of the code and running it, this is because these are academic works that can't be copied. If you would like to try the codes, please let me know and maybe I can give you the access to my private repository where you can find the files. 
 
 High School
 
