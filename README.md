@@ -10,6 +10,7 @@ I included the code of some of my first projects of programming.
 2. Python / analysis of Twitter information with developer account.
 3. Arduino / prototype of a strongbox with components.
 
+Career
 1st Semester
 
 1. Python / data analysis of COVID Mexico files. (Individual).
