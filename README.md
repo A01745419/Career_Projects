@@ -20,4 +20,4 @@ Career
 3. MATLAB / programs for the simulation of events related to physics and mathematics. (Team). 
 
 2nd Semester
-1. MATLAB / edge detencion algorithms on images. (Team).
+1. MATLAB / edge detection algorithms on images. (Team).
