@@ -18,3 +18,6 @@ Career
 2. Python / statistics and linear regression with basic machine learning for a food register file. (Individual).
 2. C++ / basic algorithm for E-business based on Object-oriented programming. (With 1 friend).
 3. MATLAB / programs for the simulation of events related to physics and mathematics. (Team). 
+
+2nd Semester
+1. MATLAB / edge detencion algorithms on images. (Team).
