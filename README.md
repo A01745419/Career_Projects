@@ -21,7 +21,7 @@ Career
 
 2nd Semester
 
-QUANTUM HackMx: I included the presentation of my first Hackaton in a different folder, this was in April 2021 and my team and I won the first place. We took the NDS Cognitive Labs challenge, where we had to detect bank fraud with machine learning, besides we were the best project for NDS, we had an honorable mention from Wolfram.
+QUANTUM HackMx: I included the presentation of my first Hackathon in a different folder, this was in April 2021 and my team and I won the first place. We took the NDS Cognitive Labs challenge, where we had to detect bank fraud with machine learning, besides we were the best project for NDS, we had an honorable mention from Wolfram.
 1. MATLAB / edge detection algorithms on images. (Team).
 2. MATLAB / electric fields simulation of parallel plates. (Team).
 3. R / biological analysis with dataset from GEO and bioinformatic resources. (Team).
