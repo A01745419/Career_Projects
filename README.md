@@ -16,8 +16,8 @@ Career
 
 1. Python / data analysis of COVID Mexico files. (Individual).
 2. Python / statistics and linear regression with basic machine learning for a food register file. (Individual).
-2. C++ / basic algorithm for E-business based on Object-oriented programming. (With 1 friend).
-3. MATLAB / simulation of events related to physics and mathematics, volcano launch and roller coaster trip. (Team). 
+3. C++ / basic algorithm for E-business based on Object-oriented programming. (With 1 friend).
+4. MATLAB / simulation of events related to physics and mathematics, volcano launch and roller coaster trip. (Team). 
 
 2nd Semester
 
@@ -27,3 +27,8 @@ QUANTUM HackMx: I included the presentation of my first Hackathon in a different
 3. R / biological analysis with dataset from GEO and bioinformatic resources. (Team).
 4. MATLAB / simulation of electromagnetic fields of four figures and animation of particle trajectory in it. (Team).
 5. C++ / basic algorithm for Streaming service based on Object-oriented programming. (With 1 friend).
+
+3rd Semester
+
+1. C++ / implementation of data structures to understand botnet presence in network accesses.
+2. Arduino / PHP / SQL / temperature_humidity and co2 sensor readings monitoring station for IoT.
