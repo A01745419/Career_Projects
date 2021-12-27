@@ -31,4 +31,4 @@ QUANTUM HackMx: I included the presentation of my first Hackathon in a different
 3rd Semester
 
 1. C++ / implementation of data structures to understand botnet presence in network accesses. (Team).
-2. Arduino / SQL / PHP (HTML FOR WEB PAGE CUSTOMIZATION) / temperature_humidity and co2 sensor readings monitoring station for IoT. (With 1 friend).
+2. Arduino / SQL / PHP / temperature_humidity and co2 sensor readings monitoring station for IoT. (With 1 friend).
