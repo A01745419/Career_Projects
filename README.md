@@ -1,5 +1,5 @@
 # Career_Projects / José Luis Madrigal Sánchez
-# Tec de Monterrey CEM / 2020-2024
+# Tec de Monterrey ITC / 2020-2024
 Here you can see my projects in many programming languages, but I will only show some pdf with screenshots of parts of the code and running it, this is because these are academic works that can't be copied. If you would like to try the codes, please let me know and maybe I can give you the access to my private repository where you can find the files. 
 
 High School
@@ -34,7 +34,7 @@ QUANTUM HackMx: I included the presentation of my first Hackathon in a different
 
 Acknowledgments
 
-I mentioned them in some of the pdf of the projects previously mentioned but I set them here too.
+I put them in some of the pdf of the projects previously mentioned but I set them here too.
 1. Paulo Ogando Gulias. (Computer Engineer).
 2. Cesar Emiliano Palome Luna. (Computer Engineer).
 3. Alan Josue Melgar Fuentes. (Robotics Engineer).
