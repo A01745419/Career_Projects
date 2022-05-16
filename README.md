@@ -30,7 +30,12 @@ QUANTUM HackMx: I included the presentation of my first Hackathon in a different
 3rd Semester
 
 1. C++ / implementation of data structures to understand botnet presence in network accesses. (Team).
-2. Arduino / SQL / PHP / temperature_humidity and co2 sensor readings monitoring station for IoT. (With 1 friend).
+2. Assembler (MARIE Simulator) / program to store the first 50 measurements in memory that takes as reference a sensor that delivers a reading through a bus
+parallel at a rate of 12 bits/ms.
+3. Arduino / SQL / PHP / temperature_humidity and co2 sensor readings monitoring station for IoT. (With 1 friend).
+
+4th Semester
+1. Unity / SQL / Typescript / PHP / 2D videogame for Percussive Arts Society that is connected by APIS to a database that leads to a data warehouse for decision making.
 
 Acknowledgments
 
