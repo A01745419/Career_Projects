@@ -36,6 +36,8 @@ parallel at a rate of 12 bits/ms.
 
 4th Semester
 1. Unity / SQL / Typescript / PHP / 2D videogame for Percussive Arts Society that is connected by APIS to a database that leads to a data warehouse for decision making.
+2. Clojure / simulation of an assembler based on operations defined by opcodes.
+3. Packet Tracer / network proposal for ICPC event based on subnetting vlsm and basic protocols.
 
 Acknowledgments
 
