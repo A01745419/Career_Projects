@@ -34,9 +34,9 @@ QUANTUM HackMx: I included the presentation of my first Hackathon in a different
 3. Arduino / SQL / PHP / temperature_humidity and co2 sensor readings monitoring station for IoT. (With 1 friend).
 
 4th Semester
-1. Unity / SQL / Typescript / PHP / 2D videogame for Percussive Arts Society that is connected by APIS to a database that leads to a data warehouse for decision making.
-2. Clojure / simulation of an assembler based on operations defined by opcodes.
-3. Packet Tracer / network proposal for ICPC event based on subnetting vlsm and basic protocols like DHCP and OSPF.
+1. Unity / SQL / Typescript / PHP / 2D videogame based on percussions that is connected by APIS to a database that leads to a data warehouse for decision making. (Team). |Training Partner: Percussive Arts Society|
+2. Clojure / simulation of an assembler based on operations defined by opcodes. (With 1 friend)
+3. Packet Tracer / network proposal for ICPC event based on subnetting and basic protocols. (Team) |Training Partner: Tec de Monterrey and Cisco|
 
 Acknowledgments
 
