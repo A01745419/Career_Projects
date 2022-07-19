@@ -1,6 +1,6 @@
 # Career_Projects / José Luis Madrigal Sánchez
 # Tec de Monterrey ITC / 2020-2024
-Here you can see my projects in many programming languages, but I will only show some pdf with screenshots of the results, this is because these are academic works that can't be copied. But if you would like to analize and try the codes, please let me know and I can give you the access to my private repository where you can find the files. 
+Here you can see my projects in many programming languages, but I will only show some pdf with screenshots of the results and short descriptions, this is because these are academic works, so avoiding plagiarism is critical. But if you would like to analize and try the codes, please let me know and I can give you the access to my private repository where you can find the files. 
 
 High School
 
