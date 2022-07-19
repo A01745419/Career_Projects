@@ -1,6 +1,6 @@
 # Career_Projects / José Luis Madrigal Sánchez
 # Tec de Monterrey ITC / 2020-2024
-Here you can see my projects in many programming languages, but I will only show some pdf with screenshots of the results, this is because these are academic works that can't be copied. But if you would like to analize and try the codes, please let me know and I can give you the access to my private repository where you can find the files. 
+Here you can see my projects in many programming languages, but I will only show some pdf with screenshots of the results and short descriptions, this is because these are academic works, so avoiding plagiarism is critical. But if you would like to analize and try the codes, please let me know and I can give you the access to my private repository where you can find the files. 
 
 High School
 
@@ -34,9 +34,9 @@ QUANTUM HackMx: I included the presentation of my first Hackathon in a different
 3. Arduino / SQL / PHP / temperature_humidity and co2 sensor readings monitoring station for IoT. (With 1 friend).
 
 4th Semester
-1. Unity / SQL / Typescript / PHP / 2D videogame for Percussive Arts Society that is connected by APIS to a database that leads to a data warehouse for decision making.
-2. Clojure / simulation of an assembler based on operations defined by opcodes.
-3. Packet Tracer / network proposal for ICPC event based on subnetting vlsm and basic protocols like DHCP and OSPF.
+1. Unity / SQL / Typescript / PHP / 2D videogame based on percussions that is connected by APIS to a database that leads to a data warehouse for decision making. (Team). |Training Partner: Percussive Arts Society|
+2. Clojure / simulation of an assembler based on operations defined by opcodes. (With 1 friend)
+3. Packet Tracer / network proposal for ICPC event based on subnetting and basic protocols. (Team) |Training Partner: Tec de Monterrey and Cisco|
 
 Acknowledgments
 
