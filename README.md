@@ -39,7 +39,8 @@ QUANTUM HackMx: I included the presentation of my first Hackathon in a different
 
 Acknowledgments
 
-I put them in some of the pdf of the projects previously mentioned but I set them here too.
+
+Thanks to these people for supporting me in certain topics.
 1. Paulo Ogando Gulias. (Computer Engineer).
 2. Cesar Emiliano Palome Luna. (Computer Engineer).
 3. Alan Josue Melgar Fuentes. (Robotics Engineer).
