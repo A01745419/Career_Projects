@@ -38,7 +38,7 @@ QUANTUM HackMx: I included the presentation of my first Hackathon in a different
 3. Packet Tracer / network proposal for ICPC event based on subnetting and basic protocols. (Team) |Training Partner: Tec de Monterrey and Cisco|
 
 ## 5th Semester
-1. Kotlin / PHP / SQL / event alerts mobile application for android that obtains information from a database that receives the records of a web page for administrators. (Team) |Training Partner: Municipality of Atizapan|
+1. Kotlin / PHP / SQL / event alerts mobile application in Android Studio that obtains information from a database that receives the records of a web page for administrators. (Team) |Training Partner: Municipality of Atizapan|
 
 ## Acknowledgments
 
