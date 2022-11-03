@@ -40,8 +40,7 @@ QUANTUM HackMx: I included the presentation of my first Hackathon in a different
 ## 5th Semester
 1. Kotlin / PHP / SQL / event alerts mobile application for android that obtains information from a database that receives the records of a web page for administrators. (Team) |Training Partner: Municipality of Atizapan|
 
-Acknowledgments
-
+## Acknowledgments
 
 Thanks to these people for supporting me in certain topics.
 1. Paulo Ogando Gulias. (Computer Engineer).
