@@ -39,6 +39,8 @@ QUANTUM HackMx: I included the presentation of my first Hackathon in a different
 
 ## 5th Semester
 1. Kotlin / PHP / SQL / event alerts mobile application in Android Studio that obtains information from a database that receives the records of a web page for administrators. (Team) |Training Partner: Municipality of Atizapan|
+2. Python / strategic player for Caterpillars' game that uses minimax function.
+3. Python / C# / multi-agent system based on efficient synchronization of vehicular traffic that is simulated in a 3D project of Unity.
 
 ## Acknowledgments
 
