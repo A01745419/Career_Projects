@@ -42,6 +42,9 @@ QUANTUM HackMx: I included the presentation of my first Hackathon in a different
 2. Python / strategic player for Caterpillars' game of Dagor framework that uses minimax function.
 3. Python / C# / multi-agent system with Mesa library based on efficient synchronization of vehicular traffic that is simulated in a 3D project of Unity.
 
+## 6th Semester
+Web page for the sale of new and used cars from agencies, where many functionalities are offered for various roles such as super administrator, automotive group administrator, manager, seller and buyer. It was a group project of 25 people, so we not only put into practice technical skills, but we also learned a lot about project management. |Training Partner: NDS Cognitive Labs|
+
 ## Acknowledgments
 
 Thanks to these people for supporting me in certain topics.
