@@ -47,7 +47,8 @@ Web page for the sale of new and used cars from agencies, where many functionali
 
 ## Acknowledgments
 
-Thanks to these people for supporting me in certain topics.
+Thanks to these colleagues for supporting me in certain topics.
 1. Paulo Ogando Gulias.
 2. Cesar Emiliano Palome Luna.
 3. Eduardo Joel Cortez Valente.
+4. Pablo Gonzalez de la Parra.
